@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  python-dev:
+    working_dir: /workspace
+    build: .
+    volumes:
+      - ..:/workspace
+    ports:
+      - "8888:8888"
+    command: sleep infinity
