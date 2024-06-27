@@ -1,0 +1,12 @@
+{
+    "name": "Python Development",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "python-dev",
+    "workspaceFolder": "/workspace",
+    "customizations": {
+        "image": "python:3.12",
+        "extensions": [
+            "ms-python.python",
+            "ms-python.vscode-pylance"
+        ]}
+}
