@@ -8,4 +8,4 @@
 <img src="https://skillicons.dev/icons?i=py"/>
 
 ## Wish
-<img src="https://skillicons.dev/icons?i=go,c,cpp,rust"/>
+<img src="https://skillicons.dev/icons?i=go,c,cpp,rust,java"/>
